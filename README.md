@@ -36,24 +36,6 @@ Veri tabanı olarak **PostgreSQL** tercih edilmiştir.
 
 ---
 
-## 📂 Proje Yapısı
-
-```
-KutuphaneYonetimSistemi/
-├── src/
-│   ├── main/java/
-│   │   ├── entities/         # Veri tabanı modelleri
-│   │   ├── dao/              # Veritabanı işlemleri
-│   │   ├── ui/               # Kullanıcı arayüzü bağlantısı
-│   │   └── main/             # Ana çalıştırma dosyası
-├── resources/
-│   ├── templates/            # HTML sayfaları
-│   └── static/               # CSS dosyaları
-└── README.md
-```
-
----
-
 ## ⚙️ Kurulum ve Çalıştırma
 
 1. **Projeyi klonla:**
@@ -68,7 +50,6 @@ KutuphaneYonetimSistemi/
 
 ---
 
-## 👨‍💻 Geliştirici
 
 **Batuhan Nacitarhan**
 Bilgisayar Mühendisliği Öğrencisi
@@ -77,6 +58,3 @@ Bilgisayar Mühendisliği Öğrencisi
 
 ---
 
-## 📄 Lisans
-
-Bu proje eğitim amaçlı olarak geliştirilmiştir. İzin alınmadan ticari olarak kullanılamaz.

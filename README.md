@@ -50,7 +50,6 @@ Veri tabanı olarak **PostgreSQL** tercih edilmiştir.
 
 ---
 
-
 **Batuhan Nacitarhan**
 Bilgisayar Mühendisliği Öğrencisi
 📧 [batuhannacitarhan@gmail.com](mailto:batuhannacitarhan@gmail.com)

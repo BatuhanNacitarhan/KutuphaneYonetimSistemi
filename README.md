@@ -53,9 +53,10 @@ Veri tabanı olarak **PostgreSQL** tercih edilmiştir.
 **Batuhan Nacitarhan**  
 Bilgisayar Mühendisliği Öğrencisi  
 
-📧 <a href="mailto:batuhan.nacitarhan@gmail.com">batuhan.nacitarhan@gmail.com</a>  
-
 <p align="left">
+  <a href="mailto:batuhannacitarhan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-batuhannacitarhan@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/batuhan-nacitarhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Batuhan%20Nacitarhan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -66,6 +67,7 @@ Bilgisayar Mühendisliği Öğrencisi
     <img src="https://img.shields.io/badge/Kaggle-Kütüphane%20Yönetim%20Sistemi-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
   </a>
 </p>
+
 
 
 

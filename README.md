@@ -50,10 +50,23 @@ Veri tabanı olarak **PostgreSQL** tercih edilmiştir.
 
 ---
 
-**Batuhan Nacitarhan**
-Bilgisayar Mühendisliği Öğrencisi
-📧 [batuhannacitarhan@gmail.com](mailto:batuhannacitarhan@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/batuhan-nacitarhan) • [GitHub](https://github.com/BatuhanNacitarhan)
+**Batuhan Nacitarhan**  
+Bilgisayar Mühendisliği Öğrencisi  
+
+📧 [batuhannacitarhan@gmail.com](mailto:batuhannacitarhan@gmail.com)  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/batuhan-nacitarhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Batuhan%20Nacitarhan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BatuhanNacitarhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BatuhanNacitarhan-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/models/batuhannacitarhan/ktphane-ynetim-sistemi" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Kütüphane%20Yönetim%20Sistemi-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+  </a>
+</p>
+
 
 ---
 

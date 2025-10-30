@@ -1,13 +1,13 @@
 # 📚 Kütüphane Veri Tabanı ve Yönetim Sistemi
 
-### *Veri tabanı ve web uygulaması projesi*
+### *Veri tabanı ve web uygulama projesi*
 
 ---
 
 ## 🚀 Proje Hakkında
 
 Bu proje, **kütüphanelerde kullanılmak üzere** geliştirilen bir **veri tabanı yönetim sistemi**dir.
-Sistemde kullanıcılar ve personeller hesap oluşturabilir, giriş yapabilir, kitapların stok durumlarını görüntüleyebilir ve **ödünç alma / iade işlemlerini** sistem üzerinden gerçekleştirebilirler.
+Sistemde kullanıcılar ve personeller hesap oluşturabilir, giriş yapabilir, kitapların stok durumlarını görüntüleyebilir ve ödünç alma / iade işlemlerini sistem üzerinden gerçekleştirebilirler.
 
 Uygulama, **Java (Eclipse)** ortamında geliştirilmiş ve kullanıcı arayüzü için **HTML/CSS** kullanılmıştır.
 Veri tabanı olarak **PostgreSQL** tercih edilmiştir.
@@ -51,7 +51,7 @@ Veri tabanı olarak **PostgreSQL** tercih edilmiştir.
 ---
 
 **Batuhan Nacitarhan**  
-Bilgisayar Mühendisliği Öğrencisi  
+Bilgisayar Mühendisliği Öğrencisi
 
 <p align="left">
   <a href="mailto:batuhannacitarhan@gmail.com" target="_blank">
